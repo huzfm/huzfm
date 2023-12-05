@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Huzaif Mushtaq
-- 👀 I’m interested in self taught programmer
+- 👀 I’m a self taught programmer
 - 🌱 I’m currently working on JavaScript and React
 
 <!---
