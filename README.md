@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Huzaif Mushtaq</h1>
 <h3 align="center">A self taught programmer</h3>
 
-- 🔭 I’m currently working on **JavaScript**
-
 - 🌱 I’m currently learning **React.Js**
 
 <h3 align="left">Socials</h3>
