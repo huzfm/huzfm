@@ -1,5 +1,5 @@
 # About Me
- I’m a self-taught programmer<br> Primary Coding Lagnuage : Javascript<br>
+Youtube Stackoverflow, GPT, Udemy, Telegram
 
 
 # Socials
