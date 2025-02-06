@@ -1,5 +1,5 @@
 # About Me
-Youtube Stackoverflow, GPT, Udemy, Telegram
+Youtube, Stackoverflow, GPT, Udemy, Telegram
 
 
 # Socials
