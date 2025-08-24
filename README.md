@@ -1,9 +1,8 @@
 # About Me
-Youtube, Stackoverflow, GPT, Udemy, Telegram
-
+I'm a Software developer who enjoys solving problems with code. I mostly work on web apps, but I'm also interested in other areas like real-time systems, command-line tools, and Databases. I like learning new things and building simple, useful tools that actually help people.
 
 # Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/huzfm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huzfm) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/huzzfm) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300BFFF.svg?logo=google-chrome&logoColor=white)](https://huzfm.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huzfm) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/huzzfm) 
 
 # 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -45,4 +44,3 @@ Youtube, Stackoverflow, GPT, Udemy, Telegram
 ---
 [![](https://visitcount.itsvg.in/api?id=huzfm&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
